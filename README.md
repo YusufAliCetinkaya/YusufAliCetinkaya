@@ -15,3 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufalicetinkaya&show_icons=true&title_color=3b065e&locale=en" alt="yusufalicetinkaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufalicetinkaya&theme=dark" alt="yusufalicetinkaya" /></p>
+
+
+![snake gif](https://github.com/YusufAliCetinkaya/YusufAliCetinkaya/blob/output/github-contribution-grid-snake.gif)
