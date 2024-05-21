@@ -1,4 +1,3 @@
-[![MasterHead](https://hizliresim.com/20rq07w)
 <h1 align="center">Hi 👋, I'm Yusuf Ali</h1>
 <h3 align="center">I am a Junior Developer aiming to become a Developer in the Web3 World</h3>
 
@@ -15,6 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufalicetinkaya&show_icons=true&title_color=3b065e&locale=en" alt="yusufalicetinkaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufalicetinkaya&theme=dark" alt="yusufalicetinkaya" /></p>
-
-
-![snake gif](https://github.com/YusufAliCetinkaya/YusufAliCetinkaya/blob/main/.github/workflows/main.yml)
