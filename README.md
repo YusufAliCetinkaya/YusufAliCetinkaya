@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yusuf Ali
 
-### I am a Junior Developer aiming to become a Developer in the Web3 World
+### I am a Junior Developer aiming to become a Developer in the Web3 World!
 
 ---
 
